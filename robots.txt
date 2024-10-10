@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://curtiveh.github.io/sitemap.html.gz
+Sitemap: https://curtiveh.github.io/app/sitemap.html.gz
+Sitemap: https://curtiveh.github.io/assets/sitemap.html.gz
+Sitemap: https://curtiveh.github.io/css/sitemap.html.gz
+Sitemap: https://curtiveh.github.io/includes/sitemap.html.gz
+Sitemap: https://curtiveh.github.io/item/sitemap.html.gz
+Sitemap: https://curtiveh.github.io/src/sitemap.html.gz
